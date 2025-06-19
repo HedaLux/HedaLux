@@ -3,9 +3,9 @@
 - 🧠 C / C++
 - 🐍 Python (automation, scripting, security tools)
 
-- 🖥️ **Environment**: Linux | Windows
+🖥️ **Environment**: Linux | Windows
 
-- 🎯 **Current Focus**:
+🎯 **Current Focus**:
 - 🛠️ Pentesting (web, network)
 - 🔍 Reverse Engineering
 - 🧩 CTFs 
